@@ -5,9 +5,6 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Files](#files)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 Menthelbot is a mental health chatbot designed to provide support and information to users. It aims to help users manage stress, anxiety, and other mental health challenges by offering guidance, resources, and a conversational interface.
