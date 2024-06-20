@@ -45,4 +45,27 @@ To run the chatbot locally, use the following command:
 jupyter notebook Menthelbot.ipynb
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+
+## Contact
+
+If you have any questions, suggestions, or need assistance, please don't hesitate to reach out to us:
+
+- **Jishnu G Varier**
+  - Email: [gjishnuvarier@gmail.com](mailto:gjishnuvarier@gmail.com)
+  - GitHub: [@JishnuGVarier](https://github.com/JishnuGVarier)
+
+- **Liza Ann Jacob**
+  - Email: [rohitbabugeorge@gmail.com](mailto:rohitbabugeorge+git@gmail.com)
+  - GitHub: [@xrg360](https://github.com/xrg360)
+ 
+- **S Sivanand**
+  - Email: [notaswindevsp@gmail.com](mailto:notaswindevsp@gmail.com)
+  - GitHub: [@aswindevsp](https://github.com/aswindevsp)
+
+- **Aiswrya Roy**
+  - Email: [notaswindevsp@gmail.com](mailto:notaswindevsp@gmail.com)
+  - GitHub: [@aswindevsp](https://github.com/aswindevsp)
+
+We're here to help! Feel free to get in touch with any inquiries or feedback.
+
+
